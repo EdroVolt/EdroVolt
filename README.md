@@ -7,6 +7,6 @@
 ## social accounts
 <p align="center">
 <a href="https://www.linkedin.com/in/edrovolt/">
-  <image href="http://www.w3.org/2000/svg" />
+  <img href="http://www.w3.org/2000/svg" />
  </a>
 </p>
