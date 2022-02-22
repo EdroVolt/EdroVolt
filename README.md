@@ -6,7 +6,5 @@
 
 ## social accounts
 <p align="center">
-<a href="https://www.linkedin.com/in/edrovolt/">
-  <img href="http://www.w3.org/2000/svg" />
- </a>
+  [<img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR.svg?logo=data:image/png;base64,DATA">](https://www.linkedin.com/in/edrovolt/)
 </p>
